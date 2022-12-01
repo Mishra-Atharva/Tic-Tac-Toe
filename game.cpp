@@ -234,7 +234,6 @@ int input()
         }
 
     }
-    std::cout << pos << std::endl;
     return pos;
 }
 
